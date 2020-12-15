@@ -2,7 +2,7 @@
 ## **INONDATIONS**
 
 ### *Débit fluvial et données historiques associées du système européen de sensibilisation aux inondations*
-![Debit fluvial entre 1991 et 2019](/images/Effas1.png)
+![Debit fluvial entre 1991 et 2019](/kopernicus/images/Effas1.png)
 
 :::: tabs type:card 
 ::: tab Description lazy
@@ -49,7 +49,7 @@ Téléchargement par API
 </br></br>  
     
 ### *Débit fluvial et données prévues associées par le système européen de sensibilisation aux inondations*
-![Domaine d’étude de l’EFAS](/images/Effas2.png)
+![Domaine d’étude de l’EFAS](/kopernicus/images/Effas2.png)
 
 :::: tabs type:card 
 ::: tab Description lazy
@@ -94,7 +94,7 @@ Téléchargement par API
 </br></br> 
 
 ### *Prévisions saisonnières du débit fluvial et données associées par le système européen de sensibilisation aux inondations (actuelles - quotidiennes)*
-![Prévisions du débit fluvial](/images/Effas3.png)
+![Prévisions du débit fluvial](/kopernicus/images/Effas3.png)
 
 :::: tabs type:card 
 ::: tab Description lazy
@@ -140,7 +140,7 @@ Téléchargement par API
 </br> </br> 
 ### *Redevisions du débit fluvial et données associées par le système européen de sensibilisation aux inondations*
 
-![EFAS4](/images/efas4.PNG)
+![EFAS4](/kopernicus/images/efas4.PNG)
 
 
 :::: tabs type:card 
@@ -186,7 +186,7 @@ Accès gratuit
 
 ### *Réévaluations saisonnières du débit fluvial et données associées par le système européen de sensibilisation aux inondations*
 
-![EFAS5](/images/efas5.PNG)
+![EFAS5](/kopernicus/images/efas5.PNG)
 
 
 :::: tabs type:card 
@@ -229,7 +229,7 @@ Tableau des metadata
 </br> </br> 
 ### *Indicateurs de quantité d'eau pour l'Europe*
 
-![EFAS6](/images/efas6.PNG)
+![EFAS6](/kopernicus/images/efas6.PNG)
 
 
 :::: tabs type:card 
@@ -278,7 +278,7 @@ Accès gratuit
 </br></br>
 ### *Indicateurs de qualité de l'eau pour les fleuves européens*
 
-![EFAS7](/images/efas7.PNG)
+![EFAS7](/kopernicus/images/efas7.PNG)
 
 
 :::: tabs type:card 
@@ -319,7 +319,7 @@ Accès gratuit
 </br></br>
 ### *Indicateurs météorologiques et de neige du tourisme de montagne pour l'Europe de 1950 à 2100 dérivés de réanalyses et de projections climatiques*
 
-![EFAS8](/images/efas8.PNG)
+![EFAS8](/kopernicus/images/efas8.PNG)
 
 
 :::: tabs type:card 
@@ -397,7 +397,7 @@ Accès gratuit
 ::::
 <br/> <br/>
 ### *Débit fluvial et prévisions associées*  
-![glofas_debit_prevision](/images/glofas_debit_prevision.png)  
+![glofas_debit_prevision](/kopernicus/images/glofas_debit_prevision.png)  
 :::: tabs type:card 
 ::: tab Description lazy
 Données journalières mondiales modélisées du débit fluvial, forcées avec des prévisions méteorologiques. *Le débit fluvial correspondant au volume d'eau s'ecoulant sur une portion de cours d'eau pour un temps donné.*  
@@ -433,7 +433,7 @@ Lien vers les détails de la [Licence](https://cds.climate.copernicus.eu/api/v2/
 ::::    
 <br/> <br/>
 ### *Débit fluvial et données historiques associées*  
-![glofas_debit_prevision](/images/glofas_debit_hist.png)  
+![glofas_debit_prevision](/kopernicus/images/glofas_debit_hist.png)  
 :::: tabs type:card 
 ::: tab Description lazy
 Données journalières mondiales modélisées du débit fluvial, forcées avec des prévisions méteorologiques. *Le débit fluvial correspondant au volume d'eau s'ecoulant sur une portion de cours d'eau pour un temps donné.*   
@@ -473,7 +473,7 @@ Lien vers les détails de la [Licence](https://cds.climate.copernicus.eu/api/v2/
 </br></br>
 
 ### *Flux WMS-T*
-![EFAS9](/images/efas9.PNG)
+![EFAS9](/kopernicus/images/efas9.PNG)
 
 
 :::: tabs type:card 
@@ -554,7 +554,7 @@ Lien vers les détails de la [Licence](https://cds.climate.copernicus.eu/api/v2/
  
 ## INCENDIES
 ### *Prévisions des risques d'incendies*
-![Prevision](/images/prevision.PNG)
+![Prevision](/kopernicus/images/prevision.PNG)
 
 :::: tabs type:card 
 ::: tab Description lazy
@@ -614,7 +614,7 @@ Accès gratuit
 </br></br>
 
 ### *Evaluation rapide des dommages*
-![FeuActif](/images/feu_actif.PNG)
+![FeuActif](/kopernicus/images/feu_actif.PNG)
 
 :::: tabs type:card 
 ::: tab Description lazy
@@ -660,7 +660,7 @@ Accès gratuit
 </br></br>
 
 ### *Fire danger indicators for Europe from 1970 to 2098 derived from climate projections*
-![Firedanger](/images/firedanger1970.PNG)
+![Firedanger](/kopernicus/images/firedanger1970.PNG)
 
 :::: tabs type:card 
 ::: tab Description lazy
@@ -704,7 +704,7 @@ Accès gratuit
 ## ATMOSPHERE
 
 ### *Qualité de l’air en Europe*
-![Monoxyde de carbone, prévision à T+96h, vendredi 23 novembre 2018 00UTC](/images/image_donnee_CAMS.png)
+![Monoxyde de carbone, prévision à T+96h, vendredi 23 novembre 2018 00UTC](/kopernicus/images/image_donnee_CAMS.png)
 
 :::: tabs type:card 
 ::: tab Description lazy
@@ -811,7 +811,7 @@ Les autres variables ne sont pas confirmées, donc à considérer comme expérim
 ## DONNEES SATELLITES SENTINEL
 
 ### *Sentinel-1 A et B*  
-![sentinel_1](/images/sentinel_1.jpg)  
+![sentinel_1](/kopernicus/images/sentinel_1.jpg)  
 :::: tabs type:card
 ::: tab Description lazy
 Satellites radar SAR (Synthetic Aperture Radar) à bande C. Ils permettent une observation de la Terre de jour comme de nuit, quelles que soient les conditions météorologiques ou environnementales (la prise de vue n’est pas impactée par les nuages ou le manque d’illumination).  
@@ -857,7 +857,7 @@ Les produits sont disponibles selon **trois niveaux de traitements** (Level-0, 1
 | SAR_L2_OCN   | Ocean 	|   
 
 ::: details Résolution disponibles pour chaque produit
-![sent_1_resol](/images/sentinel-1_resol_produits.png)
+![sent_1_resol](/kopernicus/images/sentinel-1_resol_produits.png)
 
 
 :::
@@ -868,7 +868,7 @@ Lien vers les détails de la [Licence](https://sentinels.copernicus.eu/documents
 </br></br>
 
 ### *Sentinel-2 A et B* 
-![sentinel_2](/images/sentinel_2.jpg)  
+![sentinel_2](/kopernicus/images/sentinel_2.jpg)  
 :::: tabs type:card
 ::: tab Description lazy
 Satellites optiques MSI (Multi-Spectral Instrument), permettant des captures d’images haute résolution de la surface terrestre.
@@ -908,7 +908,7 @@ Ce satellite permet d’acquérir des images dans 13 bandes spectrales avec une 
 | Level-2A   | Bottom-of-Atmosphere reflectance in cartographic geometry  	|   
 
 :::details Résolution disponibles pour chaque bande spectrale
-![sent_2_resol](/images/sentinel-2_produits.png)
+![sent_2_resol](/kopernicus/images/sentinel-2_produits.png)
 :::
 ::: tab Licence lazy
 Lien vers les détails de la [Licence](https://sentinels.copernicus.eu/documents/247904/690755/Sentinel_Data_Legal_Notice)
@@ -916,7 +916,7 @@ Lien vers les détails de la [Licence](https://sentinels.copernicus.eu/documents
 ::::
 </br></br>
 ### *Sentinel-3 A et B* 
-![sentinel_3](/images/sentinel_3.jpg)  
+![sentinel_3](/kopernicus/images/sentinel_3.jpg)  
 :::: tabs type:card
 ::: tab Description lazy
 Satellites multi-instruments fournissant une grande diversité de mesures sur les océans et les continents comprenant notamment: 
@@ -969,7 +969,7 @@ Les produits Synergy (SYN) sont issus de la combinaison des produits de OLCI et 
 | SRAL      | Level-1B-S | SAR-processed and calibrated High Resolution complex echoes arranged in stacks after slant range correction and prior to echo multi-look  |
 | SRAL      | Level-2 : SR_2_WAT, SR_2_LAN | Water and Land products |   
 :::details Résolution disponibles pour les différents instruments
-![sent_3_resol](/images/sentinel-3_produits.png)
+![sent_3_resol](/kopernicus/images/sentinel-3_produits.png)
 :::
 ::: tab Licence lazy
 Lien vers les détails de la [Licence](https://sentinels.copernicus.eu/documents/247904/690755/Sentinel_Data_Legal_Notice)
