@@ -1,0 +1,14 @@
+{
+  "name": "Kopernicus",
+  "description": "Catalogue des services et données du programme Copernicus",
+  "scripts": {
+    "dev": "vuepress dev .",
+    "build": "vuepress build ."
+  },
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.7.1",
+    "@vuepress/plugin-medium-zoom": "^1.7.1",
+    "vuepress": "^1.5.3",
+    "vuepress-plugin-element-tabs": "^0.2.8"
+  }
+}

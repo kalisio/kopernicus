@@ -1,0 +1,25 @@
+notifications:
+  email: false
+  slack:
+    rooms:
+      secure: WscthgydeX8inkaRVSBHcJFGJuLeJP29d60/RoCs68j0OB/4jCTVe1Y3GlqbdWlHw8dXsqei/JwzNomlD3voy4g+Cb7AJyXAVl5frEsQ2sEUcvjmlmc3hzu2k3OjTwV8jlb6f1+GLr4di6ZDv3ZYTId1B6I4FSxxhXT4mw/+NXvdqsNunltzi/m4Wlclb10V5TY4PTWrvLRr6hol6wdYgtgKwBJW6mQGBXRdwmi1cytPuJRXtQvCKe0dYR/LmsC7484uUZYMwHQRELcv3JRMJCCLjBtWp26ZP8TkCC+XOfR3D6ZHob00EeF8ZvTSOLi6y/IZT8pmxwhdJsi4/ibowpW8H6QDV8UVgiZT1ShljEVTa50iQhewd6QB7qtu8p5FJgn+o2gzGUTDeukFnyMJHLGm5+lwY8e0fhutqwmuAAANgUa/AVrFx1sVHBZpZzR9e086KnVN2JSBKOPoC2lXsdd8Y0qycbReAUyE7tzqy/duj3zzMC7c2CeYEu61I472cjsS7XCyGVcsQeFO14ydqDPH2azViQm41mT3jOIkjXGqIKPk3OqDz7sRMWRIe+bFUzcNa92SF5w9N4kR9LW/Ce2+25xq7/h8JA4fVJCcUkCZgnxA/NauN8otneoyBD+ZNlaLLVtN4Pe11ctaqH3f+cbC4pxVjBfRs12dKuJjk48=
+    on_success: always
+    on_failure: always
+stages:
+- name: PUBLISH
+jobs:
+  include:
+  - stage: PUBLISH
+    language: node_js
+    node_js:
+    - '12'
+    install: true
+    script: cd docs && yarn install && yarn build
+    deploy:
+      provider: pages
+      local-dir: docs/.vuepress/dist
+      skip-cleanup: true
+      github-token: "$GITHUB_TOKEN"
+      keep-history: true
+      on:
+        branch: master
