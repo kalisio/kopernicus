@@ -140,7 +140,7 @@ Téléchargement par API
 </br> </br> 
 ### *Redevisions du débit fluvial et données associées par le système européen de sensibilisation aux inondations*
 
-![EFAS4](/kopernicus/images/efas4.PNG)
+![EFAS4](/kopernicus/images/efas4.png)
 
 
 :::: tabs type:card 
@@ -186,7 +186,7 @@ Accès gratuit
 
 ### *Réévaluations saisonnières du débit fluvial et données associées par le système européen de sensibilisation aux inondations*
 
-![EFAS5](/kopernicus/images/efas5.PNG)
+![EFAS5](/kopernicus/images/efas5.png)
 
 
 :::: tabs type:card 
@@ -229,7 +229,7 @@ Tableau des metadata
 </br> </br> 
 ### *Indicateurs de quantité d'eau pour l'Europe*
 
-![EFAS6](/kopernicus/images/efas6.PNG)
+![EFAS6](/kopernicus/images/efas6.png)
 
 
 :::: tabs type:card 
@@ -278,7 +278,7 @@ Accès gratuit
 </br></br>
 ### *Indicateurs de qualité de l'eau pour les fleuves européens*
 
-![EFAS7](/kopernicus/images/efas7.PNG)
+![EFAS7](/kopernicus/images/efas7.png)
 
 
 :::: tabs type:card 
@@ -319,7 +319,7 @@ Accès gratuit
 </br></br>
 ### *Indicateurs météorologiques et de neige du tourisme de montagne pour l'Europe de 1950 à 2100 dérivés de réanalyses et de projections climatiques*
 
-![EFAS8](/kopernicus/images/efas8.PNG)
+![EFAS8](/kopernicus/images/efas8.png)
 
 
 :::: tabs type:card 
@@ -473,7 +473,7 @@ Lien vers les détails de la [Licence](https://cds.climate.copernicus.eu/api/v2/
 </br></br>
 
 ### *Flux WMS-T*
-![EFAS9](/kopernicus/images/efas9.PNG)
+![EFAS9](/kopernicus/images/efas9.png)
 
 
 :::: tabs type:card 

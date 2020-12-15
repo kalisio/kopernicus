@@ -29,7 +29,7 @@
 
 Le site de l’[EFAS](https://www.efas.eu/) permet d'accéder à des **datasets** et **flux WMS-T** comportant des données sur les flux hydrologiques. Ce site est conçu pour fournir des aperçus des inondations en cours et prévues en Europe jusqu’à 10 jours à l’avance.
 
- ![Carte pour télécharger les flux WMS ](/kopernicus/images/wms_efas.PNG)
+![Carte pour télécharger les flux WMS ](/kopernicus/images/wms_efas.png)
 
 
 L’accès aux données est différent selon le fait d'être partenaire ou non :
@@ -43,7 +43,7 @@ Le [GLOFASS](https://www.globalfloods.eu/) est l’équivalent mondial.
 Toutes les données disponibles pour ces deux instances sont répertoriées sur le site [CDS](https://cds.climate.copernicus.eu/#!/home) (climate data store). Leur accés est soumis à une inscription préalable.
 
 
- ![CDS](/kopernicus/images/CDS.PNG)
+![CDS](/kopernicus/images/CDS.png)
 
 Cette bibliothèque est rattachée à **Copernicus** et l’**ECMWF** (Centre européen des prévisions météorologiques à moyen terme).
 
